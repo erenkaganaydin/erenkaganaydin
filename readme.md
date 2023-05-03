@@ -1,5 +1,4 @@
 # Welcome! 👋
-![Yazılım Geliştirme](https://media.giphy.com/media/l0HlCuEENf6yq7VU4/giphy.gif)
 
 This GitHub repository contains my software projects developed in various languages such as .NET, PHP, Flutter, and Java. I provide services in desktop, mobile, and web domains and also offer project development and consultancy.
 
@@ -31,7 +30,6 @@ I look forward to seeing you here! 💻✨
 ---
 
 # Hoş Geldiniz! 👋
-![Yazılım Geliştirme](https://media.giphy.com/media/l0HlCuEENf6yq7VU4/giphy.gif)
 
 Bu GitHub deposu, çeşitli dillerdeki yazılım projelerimi içerir ve masaüstü, mobil ve web alanlarında hizmetler sunmaktayım. Ayrıca proje geliştirmeleri ve danışmanlık da sağlamaktayım.
 
@@ -59,3 +57,6 @@ Herhangi bir sorunuz, öneriniz veya işbirliği teklifiniz varsa, benimle ileti
 - LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/eren-ka%C4%9Fan-ayd%C4%B1n-837748258/)
 
 Hepinizi burada görmekten mutluluk duyacağım! 💻✨
+
+![Yazılım Geliştirme](https://media.giphy.com/media/l0HlCuEENf6yq7VU4/giphy.gif)
+
