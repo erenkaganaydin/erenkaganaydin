@@ -28,7 +28,7 @@ If you have any questions, suggestions, or collaboration proposals, feel free to
 I look forward to seeing you here! 💻✨
 
 
-### “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+> ### “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
 
 ![Yazılım Geliştirme](https://media.giphy.com/media/l0HlCuEENf6yq7VU4/giphy.gif)
