@@ -27,36 +27,4 @@ If you have any questions, suggestions, or collaboration proposals, feel free to
 
 I look forward to seeing you here! 💻✨
 
----
-
-# Hoş Geldiniz! 👋
-
-Bu GitHub deposu, çeşitli dillerdeki yazılım projelerimi içerir ve masaüstü, mobil ve web alanlarında hizmetler sunmaktayım. Ayrıca proje geliştirmeleri ve danışmanlık da sağlamaktayım.
-
-## Depo Hakkında
-
-Bu depo, çeşitli dillerde ve platformlarda geliştirdiğim projeleri içerir. Her projenin kendi klasöründe ayrıntılı dokümantasyon ve kullanım talimatları bulunmaktadır.
-
-## Nasıl Yardımcı Olabilirsiniz?
-
-Yardımcı olmak veya katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
-
-1. 🍴 Bu depoyu kendi GitHub hesabınıza çatallayın (Fork).
-2. 👯 Çatalladığınız depoyu yerel makinenize klonlayın (Clone).
-3. 📝 Değişiklikleri yapmak istediğiniz projenin klasörüne gidin.
-4. ⚙️ Gerekli değişiklikleri yapın ve iyileştirmeler ekleyin.
-5. ✔️ Yaptığınız değişiklikleri commitleyin ve açıklayıcı bir commit mesajı yazın.
-6. 📤 Değişikliklerinizi kendi GitHub hesabınızdaki çatalınıza (Fork) pushlayın.
-7. 🔀 Bu depoya bir pull talebi (Pull Request) oluşturun.
-
-## İletişim
-
-Herhangi bir sorunuz, öneriniz veya işbirliği teklifiniz varsa, benimle iletişime geçmekten çekinmeyin. Aşağıdaki iletişim bilgilerinden bana ulaşabilirsiniz:
-
-- E-posta: erenkaganaydin@gmail.com
-- LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/eren-ka%C4%9Fan-ayd%C4%B1n-837748258/)
-
-Hepinizi burada görmekten mutluluk duyacağım! 💻✨
-
 ![Yazılım Geliştirme](https://media.giphy.com/media/l0HlCuEENf6yq7VU4/giphy.gif)
-
