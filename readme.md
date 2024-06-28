@@ -6,8 +6,11 @@ This GitHub repository contains my software projects developed in various langua
 
 This repository includes projects developed in different languages and platforms. Each project has its own folder with detailed documentation and usage instructions.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak">
+  </a>
+</div>
 ## How to Contribute
 
 If you'd like to contribute or help out, you can follow these steps:
