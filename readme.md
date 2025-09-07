@@ -1,9 +1,12 @@
 <!-- Profil Banner / Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2400&pause=600&color=16B1F5&center=true&vCenter=true&width=820&lines=Eren+Kağan+%7C+Full-Stack+Developer;NET+8%2F9+%7C+Node.js+%7C+React+%2F+React+Native+%2F+Flutter;Multi-DB%2FTenant+%7C+3D+Secure+%7C+Clean+Architecture" alt="typing">
+  <img
+    src="https://readme-typing-svg.demolab.com?size=22&duration=2400&pause=600&color=16B1F5&center=true&vCenter=true&width=820&font=Inter&v=1&lines=Eren+Ka%C4%9Fan+%7C+Full-Stack+Developer;.NET+8%2F9+%7C+Node.js+%7C+React+%2F+React+Native+%2F+Flutter;Multi-DB%2FTenant+%7C+3D+Secure+%7C+Clean+Architecture"
+    alt="typing"
+  />
 </p>
 
-<h1 align="center">Selam, ben Eren! 👋</h1>
+<h1 align="center">Selam, ben Eren Kağan! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/erenkaganaydin">
