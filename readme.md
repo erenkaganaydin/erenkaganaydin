@@ -91,5 +91,3 @@ Odaklarım: **çoklu veritabanı & çoklu şema (multi-DB/tenant)**, **JWT auth*
 ## 📬 İletişim
 - GitHub üzerinden issue açarak veya profil bağlantılarım üzerinden ulaşabilirsin.
 - İlgi alanları: fintech, eğitim teknolojileri, rezervasyon sistemleri, çok dilli ürünler.
-
-<sub>📝 Not: Proje adı verilmeden hazırlanmıştır. Daha minimal bir sürüm (tek paragraf + birkaç rozet) istersen haber ver.</sub>
