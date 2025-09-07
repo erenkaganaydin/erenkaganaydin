@@ -55,7 +55,7 @@ Odaklarım: **çoklu veritabanı & çoklu şema (multi-DB/tenant)**, **JWT auth*
 - **Mobil:** React Native ve Flutter
 - **Ops:** Docker, Nginx, PM2, CI/CD; log & health-check
 
-> Not: **MongoDB/Prisma kullanmıyorum.** PHP ile geçmişte geliştirme yaptım (Laravel dâhil).
+> Not: PHP ile geçmişte geliştirme yaptım (Laravel dâhil).
 
 ---
 
